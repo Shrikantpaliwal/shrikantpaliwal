@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shrikantpaliwal](github.com/shrikantpaliwal)
 
-- 📝 I regularly write articles on [https://shrikantpaliwal.com/blog](https://shrikantpaliwal.com/blog)
+- 📝 I write articles on [https://shrikantpaliwal.com/blog](https://shrikantpaliwal.com/blog)
 
 - 💬 Ask me about **Software Development, IoT**
 
